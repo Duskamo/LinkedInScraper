@@ -1,0 +1,56 @@
+1536626324329	geckodriver	INFO	geckodriver 0.21.0
+1536626324340	geckodriver	INFO	Listening on 127.0.0.1:36487
+1536626325331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PxwnW5XIjmno"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536626366030	geckodriver	INFO	geckodriver 0.21.0
+1536626366049	geckodriver	INFO	Listening on 127.0.0.1:37565
+1536626367035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.31SYwCJcQngI"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536626401666	geckodriver	INFO	geckodriver 0.21.0
+1536626401670	geckodriver	INFO	Listening on 127.0.0.1:51409
+1536626402670	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PuxeiXxRSj8J"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536626420326	geckodriver	INFO	geckodriver 0.21.0
+1536626420337	geckodriver	INFO	Listening on 127.0.0.1:35447
+1536626421331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6quoaPGtu6cF"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536626472891	geckodriver	INFO	geckodriver 0.21.0
+1536626472895	geckodriver	INFO	Listening on 127.0.0.1:42021
+1536626473895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2ALb9drEfafY"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536626478415	geckodriver	INFO	geckodriver 0.21.0
+1536626478420	geckodriver	INFO	Listening on 127.0.0.1:36369
+1536626479421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ukGaktdnosFd"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536626824947	geckodriver	INFO	geckodriver 0.21.0
+1536626824951	geckodriver	INFO	Listening on 127.0.0.1:56399
+1536626825950	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RP2VxNiahzSq"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536627015971	geckodriver	INFO	geckodriver 0.21.0
+1536627015976	geckodriver	INFO	Listening on 127.0.0.1:59973
+1536627016975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.evTkIJ7jdJuK"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536627111701	geckodriver	INFO	geckodriver 0.21.0
+1536627111706	geckodriver	INFO	Listening on 127.0.0.1:44017
+1536627112706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qdA8tK7HQYFN"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536627455815	geckodriver	INFO	geckodriver 0.21.0
+1536627455819	geckodriver	INFO	Listening on 127.0.0.1:37475
+1536627456819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zSB8nl7fAs0o"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536627462937	geckodriver	INFO	geckodriver 0.21.0
+1536627462941	geckodriver	INFO	Listening on 127.0.0.1:51969
+1536627463940	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6o2uO5SUjpqu"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536627525970	geckodriver	INFO	geckodriver 0.21.0
+1536627525974	geckodriver	INFO	Listening on 127.0.0.1:40661
+1536627526974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bxXbndz2OKzq"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536627529451	geckodriver	INFO	geckodriver 0.21.0
+1536627529455	geckodriver	INFO	Listening on 127.0.0.1:49117
+1536627530454	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ERcVW9kgMoDd"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
+1536627533055	geckodriver	INFO	geckodriver 0.21.0
+1536627533060	geckodriver	INFO	Listening on 127.0.0.1:34391
+1536627534059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mppxyBF8oyEI"
+Running Firefox as root in a regular user's session is not supported.  ($HOME is /home/duskamo which is owned by duskamo.)
